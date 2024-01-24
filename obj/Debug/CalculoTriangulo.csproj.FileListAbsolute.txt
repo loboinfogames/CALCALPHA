@@ -1,0 +1,10 @@
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\bin\Debug\CalculoTriangulo.exe.config
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\bin\Debug\CalculoTriangulo.exe
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\bin\Debug\CalculoTriangulo.pdb
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.Form1.resources
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.exe
+C:\Users\mathe\OneDrive\Documentos\PROJETOS_C#\form\CalculoTriangulo\obj\Debug\CalculoTriangulo.pdb
